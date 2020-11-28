@@ -16,7 +16,7 @@ function App() {
       <br />
       <br />
       <hr />
-      <h1>Good {isMorning? "Morning": "Night"}</h1>
+      <h1>Good {isMorning? "Morning": "Night"}!</h1>
       <button onClick={() => {setMorning(!isMorning)}}>Change to Day/Night</button>
       <br />
       <br />
