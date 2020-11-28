@@ -12,6 +12,7 @@ function App() {
       <br />
       <Message value={count}/>
       <button onClick={() => {setCount(++count)} }>Increase Counter</button>
+      <br />
       <button onClick={() => {setCount(--count)} }>Decrease Counter</button>    
       <AnotherMessage value={count}/>
       <br />
