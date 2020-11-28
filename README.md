@@ -1,3 +1,9 @@
+# demo-react-app-3
+
+A demo react project done as a practice in learning ReactJS states with deployment on Surge using Github Actions.
+
+Surge Website Link: http://saifullahamin_reactapp3.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
